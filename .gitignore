@@ -1,0 +1,6 @@
+.DS_STORE
+build/*
+bin/*
+lib/*
+include/jerry/*
+include/js/*.h
